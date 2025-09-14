@@ -1,5 +1,6 @@
 # __generated__ by Terraform
-# Please review these resources and move them into your main configuration files.
+
+## Please review these resources and move them into your main configuration files.
 
 # __generated__ by Terraform from "/subscriptions/c785c74c-7bd9-4afa-ac0a-c5d7912e2fda/resourceGroups/site-group-tmpprod/providers/Microsoft.Web/serverFarms/site-appserviceplan-tmpprod"
 resource "azapi_resource" "app_service_plan" {
